@@ -1,15 +1,12 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Budget-Expense App
 
-# Homework 
-```Ödev```
+## Description
+Dummy Budget-Expense app with usage of React hooks. 
 
-
-## Homework Description
-
-```Ödev Açıklaması ```
+## Specs
+- Users can add, delete expenses
+- Pie chart will be added
 
 
 ## Author
-
-```Ödevi yapan```
+Cenk Büker
